@@ -1,0 +1,37 @@
+{
+  "id": "f1ea871e-70b3-4a9e-b2d6-c3e98f3f1214",
+  "slug": "f1ea871e-70b3-4a9e-b2d6-c3e98f3f1214",
+  "title": "About PenX",
+  "description": "",
+  "icon": "",
+  "image": "",
+  "content": "[{\"children\":[{\"text\":\"Let's start building a Web3 blog!\"}],\"type\":\"p\",\"id\":\"5702ee1c-6e2b-4c7c-87c1-8d1278b5c28a\"},{\"children\":[{\"text\":\"If you have any questions or need assistance, feel free to reach out to @0xzio on Farcaster!\"}],\"type\":\"p\",\"id\":\"b8969e3c-f3e9-43d8-b637-0d3637f6abea\"}]",
+  "i18n": {
+    "zh-CN": {
+      "title": "",
+      "content": "[{\"id\":\"e8224970-7eaa-445e-af96-ec179ac9f8fa\",\"children\":[{\"text\":\"\"}],\"type\":\"p\"}]",
+      "description": ""
+    }
+  },
+  "props": null,
+  "cid": "",
+  "creationId": 40,
+  "type": "ARTICLE",
+  "gateType": "FREE",
+  "status": "PUBLISHED",
+  "commentStatus": "OPEN",
+  "commentCount": 0,
+  "featured": false,
+  "collectible": false,
+  "delivered": false,
+  "isPopular": true,
+  "isJournal": false,
+  "isPage": false,
+  "date": "",
+  "publishedAt": "2025-02-28T08:00:04.256Z",
+  "archivedAt": null,
+  "createdAt": "2024-12-08T15:58:37.234Z",
+  "updatedAt": "2025-02-28T14:02:21.385Z",
+  "userId": "6ece4aed-e8f0-4891-b979-a4140d3d4bd0",
+  "siteId": "e9192cb6-4289-406f-81d0-c9f9ff7d3d68"
+}
